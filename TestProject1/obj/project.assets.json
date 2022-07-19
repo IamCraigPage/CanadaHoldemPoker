@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cooki\\source\\repos\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "D:\\code\\repos\\CanadaHoldemPoker\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\cooki\\source\\repos\\TestProject1\\TestProject1.csproj",
+      "projectPath": "D:\\code\\repos\\CanadaHoldemPoker\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\cooki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cooki\\source\\repos\\TestProject1\\obj\\",
+      "outputPath": "D:\\code\\repos\\CanadaHoldemPoker\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cooki\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -207,8 +207,8 @@
         "net472": {
           "targetAlias": "net472",
           "projectReferences": {
-            "C:\\Users\\cooki\\source\\repos\\CanadaPoker\\CanadaPoker.csproj": {
-              "projectPath": "C:\\Users\\cooki\\source\\repos\\CanadaPoker\\CanadaPoker.csproj"
+            "D:\\code\\repos\\CanadaHoldemPoker\\CanadaPoker\\CanadaPoker.csproj": {
+              "projectPath": "D:\\code\\repos\\CanadaHoldemPoker\\CanadaPoker\\CanadaPoker.csproj"
             }
           }
         }

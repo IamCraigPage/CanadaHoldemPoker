@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2sBexZKuSHf013m4+mMOaqnxWpDiXRM3l2zOVllqt94GQ+vo5B2ETp60o3ePzJZ9RhofEEsTYD9ZnbCq6sM17A==",
+  "dgSpecHash": "4zj4WNheDeFMK3iIqiGZRQ7GxyCKb4PF+o7FVpzxcRFwX8sgokvWJPLG1oZuBES0TAx3huKjGOllvtvtk34NSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cooki\\source\\repos\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "D:\\code\\repos\\CanadaHoldemPoker\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cooki\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\cooki\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",

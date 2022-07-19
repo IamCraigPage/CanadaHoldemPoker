@@ -5,9 +5,6 @@ using CanadaHoldemPoker.Models;
 
 namespace CanadaHoldemPoker
 {
-	/// <summary>
-	/// Summary description for Class1
-	/// </summary>
 	public static class PokerLogic
 	{
 		public static List<Hand> DetermineWinner(List<Hand> hands)
