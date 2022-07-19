@@ -8,7 +8,6 @@ C:\Users\cooki\source\repos\CanadaPoker\obj\Debug\CanadaPoker.csproj.AssemblyRef
 D:\code\repos\CanadaHoldemPoker\CanadaPoker\bin\Debug\CanadaPoker.exe.config
 D:\code\repos\CanadaHoldemPoker\CanadaPoker\bin\Debug\CanadaPoker.exe
 D:\code\repos\CanadaHoldemPoker\CanadaPoker\bin\Debug\CanadaPoker.pdb
-D:\code\repos\CanadaHoldemPoker\CanadaPoker\obj\Debug\CanadaPoker.csproj.AssemblyReference.cache
 D:\code\repos\CanadaHoldemPoker\CanadaPoker\obj\Debug\CanadaPoker.csproj.CoreCompileInputs.cache
 D:\code\repos\CanadaHoldemPoker\CanadaPoker\obj\Debug\CanadaPoker.exe
 D:\code\repos\CanadaHoldemPoker\CanadaPoker\obj\Debug\CanadaPoker.pdb
