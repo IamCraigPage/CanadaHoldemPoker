@@ -1,0 +1,7 @@
+C:\Users\cooki\source\repos\CanadaPoker\bin\Debug\CanadaPoker.exe.config
+C:\Users\cooki\source\repos\CanadaPoker\bin\Debug\CanadaPoker.exe
+C:\Users\cooki\source\repos\CanadaPoker\bin\Debug\CanadaPoker.pdb
+C:\Users\cooki\source\repos\CanadaPoker\obj\Debug\CanadaPoker.csproj.CoreCompileInputs.cache
+C:\Users\cooki\source\repos\CanadaPoker\obj\Debug\CanadaPoker.exe
+C:\Users\cooki\source\repos\CanadaPoker\obj\Debug\CanadaPoker.pdb
+C:\Users\cooki\source\repos\CanadaPoker\obj\Debug\CanadaPoker.csproj.AssemblyReference.cache

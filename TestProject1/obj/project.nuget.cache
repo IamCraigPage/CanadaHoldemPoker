@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2sBexZKuSHf013m4+mMOaqnxWpDiXRM3l2zOVllqt94GQ+vo5B2ETp60o3ePzJZ9RhofEEsTYD9ZnbCq6sM17A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cooki\\source\\repos\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cooki\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\cooki\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\cooki\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\cooki\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
