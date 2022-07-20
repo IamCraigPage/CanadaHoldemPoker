@@ -2,16 +2,16 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/
-[Dd]ebug/
+**/.vs
+**/[Dd]ebug
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
 x64/
 x86/
 bld/
-[Bb]in/
-[Oo]bj/
+**/[Bb]in
+**/[Oo]bj
 [Ll]og/
 _logs/
 _resources/
